@@ -1,0 +1,17 @@
+data = [
+{lat: 42.363400, lon: -71.098465, info: 'Speed = 21 '}, 
+{lat: 42.363327, lon: -71.097588, info: 'Speed = 23 '}, 
+{lat: 42.363255, lon: -71.096710, info: 'Speed = 17 '}, 
+{lat: 42.363182, lon: -71.095833, info: 'Speed = 22 '}, 
+{lat: 42.363110, lon: -71.094955, info: 'Speed = 14 '}, 
+{lat: 42.363037, lon: -71.094078, info: 'Speed = 16 '}, 
+{lat: 42.362965, lon: -71.093201, info: 'Speed = 18 '}, 
+{lat: 42.362892, lon: -71.092323, info: 'Speed = 22 '}, 
+{lat: 42.362820, lon: -71.091446, info: 'Speed = 17 '}, 
+{lat: 42.362747, lon: -71.090569, info: 'Speed = 23 '}, 
+{lat: 42.362675, lon: -71.089691, info: 'Speed = 14 '}, 
+{lat: 42.362602, lon: -71.088814, info: 'Speed = 19 '}, 
+{lat: 42.362530, lon: -71.087936, info: 'Speed = 16 '}, 
+{lat: 42.362457, lon: -71.087059, info: 'Speed = 16 '}, 
+{lat: 42.362385, lon: -71.086182, info: 'Speed = 21'}
+]
